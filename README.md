@@ -1,12 +1,10 @@
+# Hack 4 Good: Tech for Social Impact Sample Datasets
+
 ![Hackathon Banner](/images/hackathonimage2.png "Welcome to the Text for Social Impact Hackathon")
-
-
 
 ---
 
-# Hack 4 Good: Tech for Social Impact Sample Datasets
 
-![Hack 4 Good: Tech for Social Impact Sample Datasets](/images/hack4good_banner.png "Welcome to the Tech for Social Impact Hackathon")
 
 ## Overview
 
