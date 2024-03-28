@@ -1,6 +1,6 @@
 ![Hackathon Banner](/images/hackathonimage2.png "Welcome to the Text for Social Impact Hackathon")
 
-Let's update your README structure to include the additional sections you've outlined, integrating the use cases provided. Below is an example structure with sample content. After creating the structure, you would need to fill in the specific details and links relevant to your hackathon.
+
 
 ---
 
