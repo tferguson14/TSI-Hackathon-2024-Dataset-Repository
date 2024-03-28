@@ -1,6 +1,6 @@
 ![Hackathon Banner](/images/hackathonimage2.png "Welcome to the Text for Social Impact Hackathon")
 
-# Hackathon Datasets: Text for Social Impact
+# Hackathon Datasets: Tech for Social Impact
 
 Welcome to the official dataset repository for the Hackathon hosted by Microsoft's Text for Social Impact team, in collaboration with various Non-profit organizations. Our goal is to leverage the power of text analytics and natural language processing to drive social good. This repository contains sample datasets that participants can use to build and test their solutions.
 
