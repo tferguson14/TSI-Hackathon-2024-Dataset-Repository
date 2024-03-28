@@ -1,6 +1,3 @@
-Creating a README for your GitHub repository is an excellent first step to ensure that participants understand the purpose, structure, and usage of your datasets. Here's a sample README template tailored for a hackathon hosted by Microsoft's Text for Social Impact team for Non-profit organizations. This template includes placeholders and sections that you might find useful. You can customize it according to the specifics of your project and datasets.
-
----
 
 # Hackathon Datasets: Text for Social Impact
 
