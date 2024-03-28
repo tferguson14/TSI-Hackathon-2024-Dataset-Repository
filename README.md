@@ -1,4 +1,4 @@
-![Hackathon Banner](/images/hackathonimage2.png "Welcome to the Text for Social Impact Hackathon")
+![Hackathon Banner](/images/hackathonimage2.png "Welcome to the Text for Social Impact Hackathon") # Hack 4 Good: Teach for Social Impact Hackathon
 
 # Hackathon Datasets: Text for Social Impact
 
