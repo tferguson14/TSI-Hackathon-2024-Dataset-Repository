@@ -1,3 +1,4 @@
+![Hackathon Banner](/images/hackathonimage2.png "Welcome to the Text for Social Impact Hackathon")
 
 # Hackathon Datasets: Text for Social Impact
 
