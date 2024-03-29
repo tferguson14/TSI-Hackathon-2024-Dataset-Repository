@@ -69,16 +69,6 @@ Certainly, here's the README with descriptions for the datasets associated with 
 ---
 
 
-# Hack 4 Good: Tech for Social Impact Sample Datasets
-
-![Hackathon Banner](/images/hackathonimage2.png "Welcome to the Text for Social Impact Hackathon")
-
----
-
-## Overview
-
-Welcome to the Hack 4 Good hackathon dataset repository. Below you will find a list of use cases with related datasets, public datasets, and instructions on how to build your own dataset. You are not required to use any of these datasets in your final solution.
-
 ### Sources for Publicly Available Datasets
 
 - [Kaggle Datasets](https://www.kaggle.com/datasets): A data science community that offers a wide range of datasets for various use cases.
