@@ -4,27 +4,30 @@
 
 ---
 
-
-
 ## Overview
 
-This repository serves as a resource hub for the Hack 4 Good hackathon, focusing on applying technology to foster social impact across various sectors. Below you will find a list of use cases that our hackathon aims to address, along with examples of publicly available datasets that could be used to tackle these challenges.
+Welcome to the Hack 4 Good hackathon dataset repository. Below you will find a list of use cases with related datasets, public datasets, and instructions on how to build your own dataset. You are not required to use any of these datasets in your final solution.
 
 ### Hackathon Use Cases
 
 #### Humanitarian Care/Help
 - **Goal**: Improve volunteer alignment with humanitarian efforts through a mobile app.
 - **Example Datasets**:
-  - Global Volunteer Database
-  - Real-time Disaster Response Records
+  - [Volunteer Opportunities and Finding Organizations - Catalog](https://www.data.gov): A dataset from Data.gov that lists volunteer opportunities and organizations seeking volunteers across various sectors.
+  - [Humanitarian Aid to Underdeveloped Countries](https://www.kaggle.com): This dataset on Kaggle includes details about humanitarian aid distribution to underdeveloped regions, crucial for strategic volunteer placement.
+  - [Volunteer Opportunities](https://www.kaggle.com): Another Kaggle dataset that offers a global perspective on volunteer openings, which can be used to match volunteers with organizations based on skillset and availability.
+  - [Welcome - Humanitarian Data Exchange](https://www.humdata.org): The Humanitarian Data Exchange platform provides datasets related to various crises, aiding in the coordination of disaster response and volunteer efforts.
+  - [NYC Services Volunteer Opportunities - John Snow Labs](https://www.johnsnowlabs.com): Specific to New York City, this dataset from John Snow Labs facilitates the local mobilization of volunteers for social services.
 
 #### Sustainability
-- **Goal**: Create dashboards to monitor environmental impact.
+- **Goal**: Assist environmental nonprofits with visualization dashboards to track and analyze their conservation impact using GIS data.
 - **Example Datasets**:
-  - Global Forest Watch
-  - Water Quality Monitoring Data
+  - [Protected Areas - Datasets | World Resources Institute](https://www.wri.org): Offers datasets on global protected areas, vital for environmental conservation efforts and strategic planning.
+  - [Datasets | Center for Sustainability and the Global Environment](https://www.sage.wisc.edu): This center provides datasets including land use and vegetation cover, aiding in the analysis of environmental sustainability metrics.
+  - [10 Free GIS Data Sources | GIS Geography](https://www.gisgeography.com): A compilation of free GIS data sources suitable for creating spatial analyses of environmental factors like deforestation and water quality.
 
-... *Add the other use cases following the same format* ...
+---
+
 
 ### Sources for Publicly Available Datasets
 - [Kaggle](https://www.kaggle.com/datasets)
