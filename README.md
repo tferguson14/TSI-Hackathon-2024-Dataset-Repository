@@ -25,6 +25,32 @@ Welcome to the Hack 4 Good hackathon dataset repository. Below you will find a l
   - [Protected Areas - Datasets | World Resources Institute](https://www.wri.org): Offers datasets on global protected areas, vital for environmental conservation efforts and strategic planning.
   - [Datasets | Center for Sustainability and the Global Environment](https://www.sage.wisc.edu): This center provides datasets including land use and vegetation cover, aiding in the analysis of environmental sustainability metrics.
   - [10 Free GIS Data Sources | GIS Geography](https://www.gisgeography.com): A compilation of free GIS data sources suitable for creating spatial analyses of environmental factors like deforestation and water quality.
+Certainly, here's the README with descriptions for the datasets associated with the additional use cases:
+
+
+#### Research
+- **Goal**: Foster collaboration and accelerate discovery among nonprofits through an open-access repository.
+- **Example Datasets**:
+  - [Welcome - Humanitarian Data Exchange](https://humdata.org): Offers a range of datasets from crises around the world, aiding humanitarian research and action.
+  - [figshare](https://figshare.com): A repository where researchers can upload, share, and get credit for all types of research data.
+  - [Harvard Dataverse](https://dataverse.harvard.edu): An open-source web application to share, preserve, cite, explore, and analyze research data.
+  - [Dryad](https://datadryad.org): Provides a platform for researchers to publish and preserve their data and increase the availability of research data for re-use.
+
+#### HealthCare
+- **Goal**: Develop a telehealth service platform for nonprofits to provide remote consultations using AI diagnostics.
+- **Example Datasets**:
+  - [Provider Data Catalog](https://data.cms.gov/provider-data/): Offers detailed information about care providers and is hosted by the Centers for Medicare & Medicaid Services.
+  - [HCUP-US Databases](https://www.ahrq.gov/data/hcup/index.html): Maintained by the Agency for Healthcare Research and Quality, it includes the largest collection of longitudinal hospital care data.
+  - [OASIS Brains](https://www.oasis-brains.org): Provides open access to a series of MRI brain datasets to support neuroscience research and AI applications in medical imaging.
+  - [NIH Chest X-ray Dataset](https://clinicalcenter.nih.gov): One of the largest publicly available datasets of chest x-rays available for research, provided by the National Institutes of Health.
+
+#### Supply Chain - Logistics (Food/Blood)
+- **Goal**: Optimize logistics for food and blood distribution with GIS data for route efficiency.
+- **Example Datasets**:
+  - [National Transportation Atlas Database](https://www.bts.gov/ntad): Published by the Bureau of Transportation Statistics, it includes datasets that can be used to optimize supply chain routes.
+  - [NASA Earth Observations](https://neo.sci.gsfc.nasa.gov): Provides global satellite data which can inform logistics decisions related to weather and environmental conditions.
+  - [USDA ERS - Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/): Offers data on food access that can be used to plan efficient food distribution networks, especially in underserved areas.
+
 
 ---
 
