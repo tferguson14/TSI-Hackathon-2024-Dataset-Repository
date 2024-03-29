@@ -48,7 +48,7 @@ Welcome to the Hack 4 Good hackathon dataset repository. Below you will find a l
 - **Goal**: Optimize logistics for food and blood distribution with GIS data for route efficiency.
 - **Example Datasets**:
   - [National Transportation Atlas Database](https://www.bts.gov/ntad): Published by the Bureau of Transportation Statistics, it includes datasets that can be used to optimize supply chain routes.
-  - [NASA Earth Observations](https://neo.sci.gsfc.nasa.gov): Provides global satellite data which can inform logistics decisions related to weather and environmental conditions.
+  - [NASA Earth Observations](https://neo.gsfc.nasa.gov/): Provides global satellite data which can inform logistics decisions related to weather and environmental conditions.
   - [USDA ERS - Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/): Offers data on food access that can be used to plan efficient food distribution networks, especially in underserved areas.
 
 
@@ -87,8 +87,7 @@ Welcome to the Hack 4 Good hackathon dataset repository. Below you will find a l
 - [Synthea](https://synthea.mitre.org/): Synthetic patient generator that reflects the medical histories of synthetic patients.
 - [Mockaroo](https://www.mockaroo.com/): A tool for generating test data in various formats.
 - [DataSynthesizer GitHub](https://github.com/DataResponsibly/DataSynthesizer): Generates synthetic datasets with differential privacy.
-- [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio): Synthesize data while ensuring privacy with IBM's tools.
-- [Gretel.ai](https://gretel.ai/): Create synthetic data with Gretel's APIs.
+
 
 ### Using Bing Chat to Generate Python Code for Sample Dataset Creation
 
@@ -166,6 +165,6 @@ The generated dataset can be found in the `data` folder of this repository. Repl
 
 ## Contact and Contribututions
 
-We welcome contributions! Please email any suggestion or any queries regarding the hackathon or datasets to Taisha Ferguson taferguson@microsoft.com.
+We welcome contributions! Please email any suggestion or any queries regarding the hackathon datasets to Taisha Ferguson taferguson@microsoft.com.
 
 ---
