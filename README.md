@@ -161,7 +161,7 @@ print(df.head())
 
 The generated dataset can be found in the `data` folder of this repository. Replace the placeholder below with the actual link to the data folder:
 
-[Sample Dataset](/data/sample_dataset.csv)
+[Sample Dataset](/data/bing_sample_dataset.csv)
 
 ## Contact and Contribututions
 
