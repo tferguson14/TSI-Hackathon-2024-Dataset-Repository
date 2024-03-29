@@ -52,8 +52,21 @@ Certainly, here's the README with descriptions for the datasets associated with 
   - [USDA ERS - Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/): Offers data on food access that can be used to plan efficient food distribution networks, especially in underserved areas.
 
 
----
+#### Museums, Libraries, and Archives
+- **Goal**: Utilize AI for cataloging, digitization, and making historical documents and artifacts more accessible.
+- **Example Datasets**:
+  - [Open Access - The Metropolitan Museum of Art](https://www.metmuseum.org): Provides access to hundreds of thousands of public-domain artworks with high-resolution images.
+  - [Search | Smithsonian Institution](https://www.si.edu): Offers a searchable database of the vast collections from the Smithsonian's museums, archives, and libraries.
+  - [Digital Collections - FDR Presidential Library & Museum](https://www.fdrlibrary.org): Features a wide range of digital content from the FDR Presidential Library, including documents, photographs, and videos.
+  - [America's Historical Documents | National Archives](https://www.archives.gov): Contains an extensive collection of significant primary documents from American history, available for public use.
 
+#### Social Services
+- **Goal**: Enhance the delivery and effectiveness of social services to those in urgent need through technological solutions.
+- **Example Datasets**:
+  - [kharrigian/mental-health-datasets](https://github.com/kharrigian/mental-health-datasets): This GitHub repository is an evolving compilation of datasets related to mental health, useful for modeling and understanding mental health trends and needs.
+  - [FSSA: FSSA Data & Analytics](https://www.in.gov/fssa): Offers data solutions and insights from the Indiana Family and Social Services Administration to improve policy and programmatic decisions impacting social services.
+
+---
 
 ### Sources for Publicly Available Datasets
 - [Kaggle](https://www.kaggle.com/datasets)
