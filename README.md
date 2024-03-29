@@ -69,30 +69,35 @@ Certainly, here's the README with descriptions for the datasets associated with 
 ---
 
 
-#### Sources for Publicly Available Datasets
+# Hack 4 Good: Tech for Social Impact Sample Datasets
 
-- **Kaggle**: A data science community that offers a wide range of datasets for various use cases. [Kaggle Datasets](https://www.kaggle.com/datasets)
-- **Google Dataset Search**: A tool that enables the discovery of datasets stored across the web. [Google Dataset Search](https://datasetsearch.research.google.com/)
-- **Data.gov**: The home of the U.S. Government’s open data, including federal, state, and local datasets. [Data.gov](https://www.data.gov/)
-- **Azure Open Datasets**: Curated datasets from Microsoft Azure. [Azure Open Datasets](https://azure.microsoft.com/services/open-datasets/)
-- **The World Bank Open Data**: Free and open access to global development data. [The World Bank Open Data](https://data.worldbank.org/)
-- **UN Data**: A portal to a variety of UN databases. [UN Data](http://data.un.org/)
-- **EU Open Data Portal**: Access to data from the EU institutions, agencies, and bodies. [EU Open Data Portal](https://data.europa.eu/en)
-- **Harvard Dataverse**: An open-source web application to share, preserve, cite, explore, and analyze research data. [Harvard Dataverse](https://dataverse.harvard.edu/)
-- **Dryad**: A platform to publish and preserve research data. [Dryad](https://datadryad.org/stash)
+![Hackathon Banner](/images/hackathonimage2.png "Welcome to the Text for Social Impact Hackathon")
 
-## Sources for Synthetic Dataset Generation
+---
 
-- **Synthea**: Synthetic patient generator that reflects the medical histories of synthetic patients. [Synthea](https://synthea.mitre.org/)
-- **Mockaroo**: A tool for generating test data in various formats. [Mockaroo](https://www.mockaroo.com/)
-- **DataSynthesizer**: Generates synthetic datasets with differential privacy. [DataSynthesizer GitHub](https://github.com/DataResponsibly/DataSynthesizer)
-- **IBM Watson Studio**: Synthesize data while ensuring privacy with IBM's tools. [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio)
-- **Gretel.ai**: Create synthetic data with Gretel's APIs. [Gretel.ai](https://gretel.ai/)
+## Overview
 
-Remember to review dataset licenses and adhere to any terms and conditions provided by the dataset source when using these datasets in your projects.
-```
+Welcome to the Hack 4 Good hackathon dataset repository. Below you will find a list of use cases with related datasets, public datasets, and instructions on how to build your own dataset. You are not required to use any of these datasets in your final solution.
 
-You can place this updated content into your README.md to provide participants with a comprehensive guide to finding and generating datasets for the hackathon.
+### Sources for Publicly Available Datasets
+
+- [Kaggle Datasets](https://www.kaggle.com/datasets): A data science community that offers a wide range of datasets for various use cases.
+- [Google Dataset Search](https://datasetsearch.research.google.com/): A tool that enables the discovery of datasets stored across the web.
+- [Data.gov](https://www.data.gov/): The home of the U.S. Government’s open data, including federal, state, and local datasets.
+- [Azure Open Datasets](https://azure.microsoft.com/services/open-datasets/): Curated datasets from Microsoft Azure.
+- [The World Bank Open Data](https://data.worldbank.org/): Free and open access to global development data.
+- [UN Data](http://data.un.org/): A portal to a variety of UN databases.
+- [EU Open Data Portal](https://data.europa.eu/en): Access to data from the EU institutions, agencies, and bodies.
+- [Harvard Dataverse](https://dataverse.harvard.edu/): An open-source web application to share, preserve, cite, explore, and analyze research data.
+- [Dryad](https://datadryad.org/stash): A platform to publish and preserve research data.
+
+### Sources for Synthetic Dataset Generation
+
+- [Synthea](https://synthea.mitre.org/): Synthetic patient generator that reflects the medical histories of synthetic patients.
+- [Mockaroo](https://www.mockaroo.com/): A tool for generating test data in various formats.
+- [DataSynthesizer GitHub](https://github.com/DataResponsibly/DataSynthesizer): Generates synthetic datasets with differential privacy.
+- [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio): Synthesize data while ensuring privacy with IBM's tools.
+- [Gretel.ai](https://gretel.ai/): Create synthetic data with Gretel's APIs.
 
 ### Using Bing AI to Generate Synthetic Datasets
 To assist participants in creating synthetic datasets, we provide an example of how to use Bing AI with Python. Below is a Python code snippet that utilizes Bing AI's capabilities:
