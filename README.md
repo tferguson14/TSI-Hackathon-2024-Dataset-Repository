@@ -85,22 +85,10 @@ To assist participants in creating synthetic datasets, we provide an example of 
 # Note: Provide a real example of Python code interacting with Bing AI.
 ```
 
-## Contributing
 
-We welcome contributions from participants and the community. If you have datasets or resources to add, please see our contribution guidelines.
 
-## Code of Conduct
+## Contact and Contribututions
 
-To ensure a positive and inclusive environment for everyone, we've established a code of conduct. All participants are expected to follow the code of conduct while engaging with the repository and the hackathon.
-
-## Contact
-
-For any queries regarding the hackathon or datasets, please reach out to us at [hack4good@techforsocialimpact.org](mailto:hack4good@techforsocialimpact.org).
-
----
-
-Remember to replace the placeholder links and text with actual information and resources. The Python snippet for using Bing AI would need to be actual functional code. If Bing AI has an API or SDK that can be used for generating synthetic datasets, you would include that code there.
-
-For the banner image at the top of the README, make sure you have uploaded the actual image to the `/images` folder in your repository, and reference it using the correct path. If you need help generating this banner image or writing the Bing AI Python code snippet, please let me know!
+We welcome contributions! Please email any suggestion or any queries regarding the hackathon or datasets to Taisha Ferguson taferguson@microsoft.com.
 
 ---
