@@ -154,6 +154,15 @@ df = pd.DataFrame(data)
 # Display the first few rows of the DataFrame
 print(df.head())
 
+
+#### Sample Dataset
+
+The generated dataset can be found in the `data` folder of this repository. Replace the placeholder below with the actual link to the data folder:
+
+[Sample Dataset](/data/sample_dataset.csv)
+
+
+
 ```
 
 
