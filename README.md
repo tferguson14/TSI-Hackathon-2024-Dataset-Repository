@@ -6,7 +6,7 @@
 
 ## Overview
 
-Welcome to the Hack 4 Good hackathon dataset repository. Below you will find a list of use cases with related datasets, public datasets, and instructions on how to build your own dataset. You are not required to use any of these datasets in your final solution.
+Welcome to the Hack 4 Good hackathon dataset repository. Below you will find a list of use cases with related public datasets, resources to find additional datasources, and instructions on how to build your own dataset. You are not required to use any of these datasets in your final solution.
 
 ### Hackathon Use Cases
 
